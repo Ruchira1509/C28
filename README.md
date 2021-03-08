@@ -1,2 +1,2 @@
-# C28
-Constraint between a point and variable
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
